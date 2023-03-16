@@ -1,4 +1,4 @@
-# Teste prático - Projeto em Django: Cadastro
+# Teste prático - Projeto em Django: Cadastro de Clientes
 
 O programa de cadastro de cliente é uma ferramenta essencial para qualquer empresa que deseja manter registros precisos 
 e atualizados de seus clientes. Com este programa, é possível armazenar informações como nome completo, endereço, número
