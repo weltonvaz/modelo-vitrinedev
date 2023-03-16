@@ -1,16 +1,20 @@
-# Nome do meu projeto
+# Teste prático - Projeto em Django: Cadastro
 
-Rápida descrição do objetivo de fazer esse projeto
+O programa de cadastro de cliente é uma ferramenta essencial para qualquer empresa que deseja manter registros precisos 
+e atualizados de seus clientes. Com este programa, é possível armazenar informações como nome completo, endereço, número
+de telefone e endereço de e-mail de cada cliente. Além disso, é possível adicionar informações adicionais, como histórico
+de compras e preferências de produto. Com um programa de cadastro de cliente, a empresa pode se comunicar de forma mais 
+eficaz com seus clientes e oferecer um atendimento mais personalizado e eficiente.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Cadastro.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Projeto em Django: Cadastro de Cliente**
+| :label: Tecnologias | Python, Django e HTML(tecnologias utilizadas)
+| :rocket: URL         | 
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLokzh45ndwTSUr5Il42b88HdJpvErDNbOdg&usqp=CAU#vitrinedev)
 
 ## Detalhes do projeto
 
