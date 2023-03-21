@@ -10,7 +10,7 @@ eficaz com seus clientes e oferecer um atendimento mais personalizado e eficient
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto em Django: Cadastro de Cliente**
 | :label: Tecnologias | Python, Django e HTML(tecnologias utilizadas)
-| :rocket: URL         | 
+| :rocket: URL         | https://github.com/weltonvaz/cadastro
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
